@@ -1,0 +1,27 @@
+{
+  "name": "@cweili/fa-test-util",
+  "version": "0.1.0",
+  "description": "FontAwesome test utils",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cweili/fa-test-util.git"
+  },
+  "keywords": [
+    "fontawesome",
+    "font-awesome",
+    "test"
+  ],
+  "author": "Cweili",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Cweili/fa-test-util/issues"
+  },
+  "homepage": "https://github.com/Cweili/fa-test-util#readme",
+  "dependencies": {
+    "@fortawesome/free-solid-svg-icons": "^5.10.1"
+  }
+}
